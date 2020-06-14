@@ -1,2 +1,5 @@
-# slovak_firstnames
-Repository with existing firstnames used in slovakia.
+# Slovak Firstnames
+
+Repository with existing firstnames used in Slovakia.
+
+License: MIT
